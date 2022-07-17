@@ -24,10 +24,14 @@ Seganography is a game built with **Java swing**. Players' data is handled with 
 * A random scene is displayed and you have to look for a hidden num of the list (1, 2, 3) and click it. Otherwise, the timer finishes and you lose.
 <p align="middle">
  <img src="https://raw.githubusercontent.com/hagerosama/SeganographyGame/master/how-to/Capture3.PNG" width="400" height="350">
+</p>
+<p align="middle">
  <img src="https://raw.githubusercontent.com/hagerosama/SeganographyGame/master/how-to/Capture4.PNG" width="400" height="350">
 </p>
 * If you found the number, a hidden word is shown to you then another random scene shows up and this continues until you decrypt the whole name
 <p align="middle">
  <img src="https://raw.githubusercontent.com/hagerosama/SeganographyGame/master/how-to/Capture5.PNG" width="400" height="350">
+</p>
+<p align="middle">
  <img src="https://raw.githubusercontent.com/hagerosama/SeganographyGame/master/how-to/Capture8.PNG" width="400" height="350">
 </p>
