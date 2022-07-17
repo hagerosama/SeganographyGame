@@ -11,7 +11,7 @@ Seganography is a game built with **Java swing**. Players' data is handled with 
 * Extract media folder (choose **Extract here** option and not Extract to another folder)
 * Run the program you will see the start screen where you can login or sign up
 <p align="middle">
- <img src="https://raw.githubusercontent.com/hagerosama/SeganographyGame/master/how-to/Capture.PNG" width="400" height="350">
+ <img src="https://raw.githubusercontent.com/hagerosama/SeganographyGame/master/how-to/Capture.PNG" >
 </p>
 * After logging in, you are welcomed by this screen and ready to play
 <p align="middle">
