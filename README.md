@@ -23,7 +23,7 @@ Seganography is a game built with **Java swing**. Players' data is handled with 
 </p>
 * A random scene is displayed and you have to look for a hidden num of the list (1, 2, 3) and click it. Otherwise, the timer finishes and you lose.
 <p align="middle">
- <img src="https://raw.githubusercontent.com/hagerosama/SeganographyGame/master/how-to/Capture3.PNG" >
+ <img src="https://raw.githubusercontent.com/hagerosama/SeganographyGame/master/how-to/Capture3.PNG" width="500" height="300">
 </p>
 <p align="middle">
  <img src="https://raw.githubusercontent.com/hagerosama/SeganographyGame/master/how-to/Capture4.PNG" >
